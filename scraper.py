@@ -5,7 +5,7 @@ import json
 import requests
 import scraperwiki.sqlite as db
 
-PARENT_ID = 2547# Borough codes
+PARENT_ID = 2532# Borough codes
 
 
 
